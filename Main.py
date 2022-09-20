@@ -1,7 +1,7 @@
 import re
 
 def display_hash(hashtable) -> None:
-	# Write your code here
+	# Write your
 
 def Hashing(keyvalue) -> int:
 	return keyvalue % len(HashTable)
