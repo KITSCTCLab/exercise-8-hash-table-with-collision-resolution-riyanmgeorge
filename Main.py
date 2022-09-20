@@ -7,7 +7,7 @@ def Hashing(keyvalue) -> int:
 	return keyvalue % len(HashTable)
 
 def insert(Hashtable, keyvalue, value) -> None:
-	# Write your
+	
 
 
 # Do not edit the following code
