@@ -1,12 +1,10 @@
 import re
 
 def display_hash(hashtable) -> None:
- 
-for keyvalue in range(len(hashtable)):
+ for keyvalue in range(len(hashtable)):
   content = hashtable[keyvalue]
   print(keyvalue, end = " ")
-  
-for element in content:
+  for element in content:
    print("-->", element, end = " ")
   print()
 
